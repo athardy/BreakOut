@@ -1,0 +1,13 @@
+html {
+    background-color: black;
+    image-rendering: pixelated;
+    overflow: hidden;
+}
+canvas {
+    background-color: rgb(40, 40, 40);
+    display: flex;
+}
+
+button {
+    display: flex;
+}
